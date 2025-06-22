@@ -13,7 +13,7 @@ Program ini menjumlahkan elemen-elemen array secara paralel menggunakan Pthreads
 - Total penjumlahan seluruh array dan waktu eksekusi
 
 ## Contoh Output
-!(output1.png)
-!(output2.png)
+![](output1.png)
+![](output2.png)
 
 
